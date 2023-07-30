@@ -1,0 +1,31 @@
+#container
+{
+	height: 70vh;
+	width:70vw;
+	background-color: orangered;
+	display: flex;
+	flex-direction: column;
+}
+#container div
+{
+	height: 200px;
+	width: 200px;
+}
+#div1
+{
+	background-color:gold ;
+	order: 2;
+}
+#div2
+{
+	background-color: green;
+	order:5;
+}
+#div3
+{
+	background-color: black;
+}
+#div4
+{
+	background-color: blue;
+}
